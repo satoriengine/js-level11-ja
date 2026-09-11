@@ -4,7 +4,7 @@ description: JavaScriptレベル10で学んだプロジェクト管理を土台�
 displayLanguage: ja
 ---
 
-# JavaScriptレベル10
+# JavaScriptレベル11
 
 レベル1〜9では、1つのファイルをその場で実行しながら、JavaScriptの文法やデザインパターンを学んできました。レベル10では、そこから一歩進み、`npm`や`pnpm`といったツールを使って、複数のファイルやパッケージからなる<span class="info">「プロジェクト」</span>を管理する方法を学びました。
 
